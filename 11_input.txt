@@ -1,0 +1,3 @@
+This is input file.
+I am learning file handling in python. 
+I am reading the content of input file and write it in output file after modification.
